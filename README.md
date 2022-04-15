@@ -1,2 +1,2 @@
 # ECE324
-Sign Language 
+Tic-Tac-Toe ML policy
